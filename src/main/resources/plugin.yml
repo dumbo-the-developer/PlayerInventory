@@ -1,0 +1,3 @@
+name: PlayerCraftingGUI
+version: '${project.version}'
+main: me.adarsh.playercraftinggui.PlayerCraftingGUI
